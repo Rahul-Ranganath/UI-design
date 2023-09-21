@@ -1,2 +1,2 @@
-# cs235project
+# CS235 Project
 UI Design Project
